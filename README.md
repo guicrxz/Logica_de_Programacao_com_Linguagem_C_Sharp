@@ -1,4 +1,4 @@
-Exemplo 2: 
+Exemplo 2: Operações Aritméticas;
 
 Exemplo 3: Constante e Formatação;
 
