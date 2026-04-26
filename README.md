@@ -18,6 +18,6 @@ Exemplo6_EstruturaSelecao.cs:  Estrutura de Seleção;
 
 Exemplo7_NumerosInteiros.cs:  Números Inteiros;
 
-Exemplo 6
+ExemploSla_ComparacaoIdade.cs: Comparação de Idade com < ou >;
 
 :)
