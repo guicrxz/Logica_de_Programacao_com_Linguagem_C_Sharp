@@ -1,16 +1,18 @@
-Aula1_Exemplo2.cs: Operações Aritméticas;
+Aula1_Exemplo2.cs:  Operações Aritméticas;
 
-Aula1_Exemplo3.cs: Constante e Formatação;
+Aula1_Exemplo3.cs:  Constante e Formatação;
 
-Aula1_Exemplo4.cs: Tratando Strings - Alguns métodos utilizados;
+Aula1_Exemplo4.cs:  Tratando Strings - Alguns Métodos Utilizados;
 
-Exemplo5_EntradaDados.cs: Entrada de Dados;
+Exemplo1_EstruturaCondSimples.cs:  Estrutura Condicional Simples;
 
-Exemplo6.cs: Type Parsing;
+Exemplo5_EntradaDados.cs:  Entrada de Dados;
 
-Exemplo6_EstruturaSelecao.cs: Estrutura de Seleção;
+Exemplo6.cs:  Type Parsing;
 
-Exemplo7_NumerosInteiros.cs: Números Inteiros;
+Exemplo6_EstruturaSelecao.cs:  Estrutura de Seleção;
+
+Exemplo7_NumerosInteiros.cs:  Números Inteiros;
 
 Exemplo 6
 
