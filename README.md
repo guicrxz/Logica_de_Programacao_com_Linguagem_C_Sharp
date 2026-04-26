@@ -8,6 +8,8 @@ Exemplo5_EntradaDados.cs: Entrada de Dados;
 
 Exemplo6.cs: Type Parsing;
 
+Exemplo6_EstruturaSelecao.cs: Estrutura de Seleção;
+
 Exemplo7_NumerosInteiros.cs: Números Inteiros;
 
 Exemplo 6
