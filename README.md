@@ -6,6 +6,18 @@ Aula1_Exemplo4.cs:  Tratando Strings - Alguns Métodos Utilizados;
 
 Exemplo10.cs:  Estrutura de Repetição: Comando FOR (decremento);
 
+Exemplo11.cs:  Estrutura de Repetição: Comando WHILE;
+
+Exemplo12.cs:  Estrutura de Repetição: Comando WHILE;
+
+Exemplo13.cs:  Estrutura de Repetição: Comando DO...WHILE;
+
+Exemplo14.cs:  Utilizando Diversas Estruturas;
+
+Exemplo15_1.cs:  Contagem do número de elementos de um conjunto;
+
+Exemplo15_2.cs:  Acúmulo de resultados parciais;
+
 Exemplo1_EstruturaCondSimples.cs:  Estrutura Condicional Simples;
 
 Exemplo3_EstruturaCondComposta1.cs:  Estrutura Condicional Composta - Exemplo 1;
