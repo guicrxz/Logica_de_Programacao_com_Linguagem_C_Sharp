@@ -1,0 +1,15 @@
+using System;
+
+    class Program
+{
+    static void Main(string[] args)
+    {
+        int x;
+        
+        for (x = 1; x <= 10; x++)
+        {
+            Console.WriteLine("{0}", x);
+        }
+        Console.ReadKey();
+    }
+}
